@@ -9,15 +9,15 @@ namespace NumberInfo
             char status = 'y';
             while (status == 'y')
             {
-                Console.WriteLine("This program can tell you info about the number you input \nInput a number: ");
+                Console.WriteLine("This program can tell you info about the number you input \nInput an integer: ");
                 try
                 {
-                    double numInput = Convert.ToDouble(Console.ReadLine());
+                    int numInput = Convert.ToInt32(Console.ReadLine());
                     GetNumInfo(numInput);
                 }
                 catch
                 {
-                    Console.WriteLine("Invalid entry. Needs to be a number.");
+                    Console.WriteLine("Invalid entry. Needs to be an integer (no decimals).");
                 }
 
                 Console.WriteLine("Would you like to continue? (y or n): ");
