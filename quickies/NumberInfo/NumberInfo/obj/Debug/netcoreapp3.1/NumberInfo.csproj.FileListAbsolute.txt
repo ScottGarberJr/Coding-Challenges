@@ -1,0 +1,14 @@
+/Users/scottg/Projects/Coding-Challenges/quickies/NumberInfo/NumberInfo/bin/Debug/netcoreapp3.1/NumberInfo
+/Users/scottg/Projects/Coding-Challenges/quickies/NumberInfo/NumberInfo/bin/Debug/netcoreapp3.1/NumberInfo.deps.json
+/Users/scottg/Projects/Coding-Challenges/quickies/NumberInfo/NumberInfo/bin/Debug/netcoreapp3.1/NumberInfo.runtimeconfig.json
+/Users/scottg/Projects/Coding-Challenges/quickies/NumberInfo/NumberInfo/bin/Debug/netcoreapp3.1/NumberInfo.runtimeconfig.dev.json
+/Users/scottg/Projects/Coding-Challenges/quickies/NumberInfo/NumberInfo/bin/Debug/netcoreapp3.1/NumberInfo.dll
+/Users/scottg/Projects/Coding-Challenges/quickies/NumberInfo/NumberInfo/bin/Debug/netcoreapp3.1/NumberInfo.pdb
+/Users/scottg/Projects/Coding-Challenges/quickies/NumberInfo/NumberInfo/obj/Debug/netcoreapp3.1/NumberInfo.csproj.AssemblyReference.cache
+/Users/scottg/Projects/Coding-Challenges/quickies/NumberInfo/NumberInfo/obj/Debug/netcoreapp3.1/NumberInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scottg/Projects/Coding-Challenges/quickies/NumberInfo/NumberInfo/obj/Debug/netcoreapp3.1/NumberInfo.AssemblyInfoInputs.cache
+/Users/scottg/Projects/Coding-Challenges/quickies/NumberInfo/NumberInfo/obj/Debug/netcoreapp3.1/NumberInfo.AssemblyInfo.cs
+/Users/scottg/Projects/Coding-Challenges/quickies/NumberInfo/NumberInfo/obj/Debug/netcoreapp3.1/NumberInfo.csproj.CoreCompileInputs.cache
+/Users/scottg/Projects/Coding-Challenges/quickies/NumberInfo/NumberInfo/obj/Debug/netcoreapp3.1/NumberInfo.dll
+/Users/scottg/Projects/Coding-Challenges/quickies/NumberInfo/NumberInfo/obj/Debug/netcoreapp3.1/NumberInfo.pdb
+/Users/scottg/Projects/Coding-Challenges/quickies/NumberInfo/NumberInfo/obj/Debug/netcoreapp3.1/NumberInfo.genruntimeconfig.cache
