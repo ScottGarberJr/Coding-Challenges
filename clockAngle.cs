@@ -1,5 +1,6 @@
 
-// find the smallest angle between the two hands of an analog clock. FROM TIME
+// find the smallest angle between the two hands of an analog clock 
+// given time
 using System;
 
 class Program

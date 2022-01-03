@@ -23,7 +23,7 @@ namespace CompareWordsInArray
         {
             Console.WriteLine("Enter in your words separated by a space: ");
 
-            char[] seperators = { ' ', ', ', '\t' };
+            char[] seperators = { ' ', '\t' };
             string inputs = Convert.ToString(Console.ReadLine());
             string[] words = inputs.Split(seperators);
             return words;
